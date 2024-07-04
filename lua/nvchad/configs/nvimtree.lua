@@ -17,7 +17,7 @@ local options = {
     adaptive_size = false,
     side = "right",
     width = 30,
-    preserve_window_proportions = false,
+    preserve_window_proportions = true,
   },
   git = {
     enable = true,
